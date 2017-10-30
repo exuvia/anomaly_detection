@@ -1,8 +1,11 @@
 # Table of Contents
-1. [Project Summary](README.md#project-summary)
-2. [Dependencies](README.md#dependencies)
-3. [Running instructions](README.md#running-instructions)
+1. [Introduction] (README.md#introduction)
+2. [Project Summary](README.md#project-summary)
+3. [Dependencies](README.md#dependencies)
+4. [Running instructions](README.md#running-instructions)
 
+# Introduction
+Imagine you're at an e-commerce company that also has a social network. In addition to shopping, users can see which items their friends are buying, and are influenced by the purchases within their network. In this project a real-time platform is built to analyze purchases within a social network of users, and detect any behavior that is far from the average within that social network.
 
 # Project Summary
 This project is written in `Python 2.7` and contains a `main.py` source file and two supporting module `parse_input.py` and `tools.py`. 
