@@ -1,5 +1,5 @@
 # Table of Contents
-1. [Introduction] (README.md#introduction)
+1. [Introduction](README.md#introduction)
 2. [Project Summary](README.md#project-summary)
 3. [Dependencies](README.md#dependencies)
 4. [Running instructions](README.md#running-instructions)
